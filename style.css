@@ -1,0 +1,16 @@
+.index-title {
+    color: red;
+}
+.about-title {
+    color: green;
+}
+
+.about-body > p {
+    text-decoration: underline;
+    color: green;
+}
+
+.index-body > p {
+    text-decoration: underline;
+    color: red;
+}
